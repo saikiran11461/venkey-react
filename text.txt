@@ -1,0 +1,43 @@
+components 
+    1.creating / mounting
+    2.uppdating
+    3.destroied / unMounting
+
+
+    useState 
+        varible     function
+
+       
+       var string = "sai"
+
+       var arr = [1,2,3,45]
+
+       var myObj = {
+
+       }
+
+
+       var arr =[
+        {
+            title:"react"
+        }
+       ]
+
+
+       .slice
+       .map
+       .reduce
+       .filter
+       
+       .map its only for array 
+       
+
+
+       useEffect => 
+            
+
+
+
+       const data = setData=()=>{
+
+       }     
